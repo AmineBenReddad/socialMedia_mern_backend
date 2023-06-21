@@ -1,0 +1,1 @@
+This is a repository for ServerSide of a Social Media app created by Node js and MySQL
